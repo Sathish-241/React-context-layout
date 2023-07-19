@@ -1,0 +1,13 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.footer-container {
+  height: 100px;
+  width: 50%;
+  background-color: #cbd5e1;
+  color: #475569;
+  font-family: Roboto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}

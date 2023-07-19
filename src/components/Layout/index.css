@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layout-body-container {
+  /* border: 1px solid blue; */
+  width: 50%;
+  height: 500px;
+  /* margin-top: 10px; */
+}
+.layout-container {
+  margin-top: 20px;
+  margin-left: 25%;
+}
